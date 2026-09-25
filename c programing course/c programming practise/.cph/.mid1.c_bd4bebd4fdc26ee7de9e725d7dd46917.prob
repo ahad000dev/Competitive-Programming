@@ -1,0 +1,1 @@
+{"name":"Local: mid1","url":"d:\\learning phitron\\c programming practise\\mid1.c","tests":[{"id":1777109669540,"input":"5\n1 4 2 5 3","output":"2 1"},{"id":1777110058650,"input":"5\n1 4 2 5 3","output":"2 1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\learning phitron\\c programming practise\\mid1.c","group":"local","local":true}
