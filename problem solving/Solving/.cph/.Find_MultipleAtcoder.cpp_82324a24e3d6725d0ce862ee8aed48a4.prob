@@ -1,0 +1,1 @@
+{"name":"Local: Find_MultipleAtcoder","url":"d:\\learning phitron\\contest\\Find_MultipleAtcoder.cpp","tests":[{"id":1791131171950,"input":"630 940 314","output":"-1"},{"id":1791131260093,"input":"123 456 100","output":"200"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\learning phitron\\contest\\Find_MultipleAtcoder.cpp","group":"local","local":true}
